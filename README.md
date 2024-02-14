@@ -1,2 +1,2 @@
-# Sem-foro-do-Jota
+# Semaforo-do-Jota
 https://www.tinkercad.com
